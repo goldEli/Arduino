@@ -1,6 +1,6 @@
 #define LED_PIN 32
 
-bool ledState = false;
+bool sState = false;
 
 void setup() {
   // put your setup code here, to run once:
